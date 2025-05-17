@@ -1,2 +1,7 @@
-# Requirement.txt
-Project 
+streamlit
+pandas
+numpy
+scikit-learn
+scikit-surprise
+matplotlib
+seaborn
